@@ -31,3 +31,4 @@ torchsde
 transformers==4.30.2
 
 xformers=0.0.22
+setuptools==69.5.1
